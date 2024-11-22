@@ -1,0 +1,22 @@
+/* Remove borders and underline for nav buttons */
+.nav-link {
+    border: none;
+    box-shadow: none;
+    outline: none;
+  }
+  
+  .nav-link.active {
+    background-color: #28a745 !important; /* Green background for active tab */
+    color: white;
+  }
+  
+  .nav-link:hover {
+    text-decoration: none; /* Remove underline effect on hover */
+  }
+  
+  .required {
+    color: red;
+  }
+  .nav-tabs {
+    border: none; /* Remove the border */
+  }
