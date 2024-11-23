@@ -56,7 +56,7 @@ const OtherDetails = () => {
 
   return (
     <div className=" bg-light rounded m-5 py-* pt-3 pb-4">
-      <div className="container mt-5">
+      <div className="container mt-5 mx-3 px-0">
         <h4 className="mb-3">Other Details</h4>
 
         {/* Checkboxes */}

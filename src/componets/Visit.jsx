@@ -30,7 +30,7 @@ const VisitDetails = () => {
 
   return (
     <div className=" bg-light rounded m-5 py-* pt-3 pb-4">
-      <div className="container mt-4">
+      <div className="container mt-4 mx-3 px-0 ">
         <h5 className="mb-3">Visit Details</h5>
         <div className="row g-3">
           {/* Bill Category */}     
