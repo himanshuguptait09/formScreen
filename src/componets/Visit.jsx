@@ -138,4 +138,4 @@ const VisitDetails = () => {
   );
 };
 
-export default VisitDetails;
+export default VisitDetails ;
